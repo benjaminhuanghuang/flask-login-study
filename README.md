@@ -20,7 +20,7 @@ How to
 - Install package:
     (venv) pip install -r requirements.txt
     
-- Play with it
+- Play with it:
     (venv) python login_mongo.py
     
 
