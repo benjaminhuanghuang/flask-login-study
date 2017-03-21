@@ -1,3 +1,6 @@
+Flask-Login
+https://flask-login.readthedocs.io/en/latest/
+
 Intro to Flask-Login
 https://www.youtube.com/watch?v=2dEM-s3mRLE&t=6s
 
@@ -15,3 +18,7 @@ https://www.youtube.com/watch?v=rGER0KDdJqI
 
 Flask cheat sheet
 https://prettyprinted.com/flaskcheatsheet
+
+Understanding Flask-Login Tokens Tutorial
+http://thecircuitnerd.com/flask-login-tokens/
+
