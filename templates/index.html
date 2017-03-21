@@ -1,0 +1,15 @@
+{% extends "base.html" %}
+
+{% block title %}
+Home - Flask-Login
+{% endblock %}
+
+
+{% block page_content %}
+<h>Home page</h>
+<ul>
+    <li><a href="{{ url_for('dashboard') }}">Dashboard</a></li>
+    <li><a href="{{ url_for('login') }}">Login</a></li>
+    <li><a href="{{ url_for('signup') }}">Sign Up</a></li>
+</ul>
+{% endblock %}

@@ -1,0 +1,11 @@
+# Flask
+Flask >= 0.12
+Flask-Bootstrap >= 3.3.7.1
+Flask-WTF >= 0.14
+Flask-Login >= 0.4.0
+
+# Mongo Database
+Flask-PyMongo >= 0.4.1
+
+# SQL
+Flask-SQLAlchemy>=2.1
