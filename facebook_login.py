@@ -1,6 +1,9 @@
-#
-# https://github.com/twtrubiks/Flask-Login-example/blob/master/static/javascripts/fb_login.js
-#
+'''
+Flask-Login-example (Login register facebook Login - Python Flask)
+https://www.youtube.com/watch?v=5RlzqPz9oN8&feature=youtu.be&list=PLH4KIlK-M-evEMQwY5JQXwO-LiT-SR26E
+
+https://github.com/twtrubiks/Flask-Login-example/
+'''
 
 import json
 from functools import wraps
